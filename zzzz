@@ -1,0 +1,10 @@
+user Schema ko image ko default options 
+
+  address: String,
+  eduction: String,
+  job: String,
+  phoneNo: String,
+  website: String,
+  facebookLink: String,
+  instagramLink: String,
+  linkedInLink: String
